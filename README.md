@@ -95,3 +95,19 @@
 
 ## 📂 仓库结构 | Repository Structure
 
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## ✍️ Citation
+
+If you use this repository in your research or publications, please cite as:
+
+> Qiu S., *Multi-Layer Abstraction and Intuitive Perception Engine for Hazard Recognition*,  
+> EPTech Research Lab, 2025.  
+> [https://github.com/ShaoboQiu/Multi-Layer-Abstraction-and-Intuitive-Perception-Engine](https://github.com/ShaoboQiu/Multi-Layer-Abstraction-and-Intuitive-Perception-Engine)
